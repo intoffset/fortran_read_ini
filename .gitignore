@@ -1,0 +1,7 @@
+# .gitignore
+
+# ignore list
+/main
+*.o
+*.mod
+
